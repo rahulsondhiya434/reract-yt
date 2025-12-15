@@ -9,7 +9,6 @@ const App = () => {
       <h2 id='child2'> Hello</h2>
       </div>
       <div id="chacha"></div>
-
    </>
   )
 }
